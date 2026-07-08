@@ -12,6 +12,7 @@
 - VirtualBox
 - VS Code
 - Database MySQL
+- Github
 
 ## 📂 Projects
 - Portfolio Website
